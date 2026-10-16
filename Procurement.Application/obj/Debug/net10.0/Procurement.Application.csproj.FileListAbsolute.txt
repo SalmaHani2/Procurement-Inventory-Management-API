@@ -1,0 +1,30 @@
+C:\NEW LIFE\MY projects\p\Procurement.Application\bin\Debug\net10.0\Procurement.Application.deps.json
+C:\NEW LIFE\MY projects\p\Procurement.Application\bin\Debug\net10.0\Procurement.Application.dll
+C:\NEW LIFE\MY projects\p\Procurement.Application\bin\Debug\net10.0\Procurement.Application.pdb
+C:\NEW LIFE\MY projects\p\Procurement.Application\bin\Debug\net10.0\Procurement.Domain.dll
+C:\NEW LIFE\MY projects\p\Procurement.Application\bin\Debug\net10.0\Procurement.Domain.pdb
+C:\NEW LIFE\MY projects\p\Procurement.Application\obj\Debug\net10.0\Procurement.Application.csproj.AssemblyReference.cache
+C:\NEW LIFE\MY projects\p\Procurement.Application\obj\Debug\net10.0\Procurement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\NEW LIFE\MY projects\p\Procurement.Application\obj\Debug\net10.0\Procurement.Application.AssemblyInfoInputs.cache
+C:\NEW LIFE\MY projects\p\Procurement.Application\obj\Debug\net10.0\Procurement.Application.AssemblyInfo.cs
+C:\NEW LIFE\MY projects\p\Procurement.Application\obj\Debug\net10.0\Procurement.Application.csproj.CoreCompileInputs.cache
+C:\NEW LIFE\MY projects\p\Procurement.Application\obj\Debug\net10.0\Procurem.2B6BC217.Up2Date
+C:\NEW LIFE\MY projects\p\Procurement.Application\obj\Debug\net10.0\Procurement.Application.dll
+C:\NEW LIFE\MY projects\p\Procurement.Application\obj\Debug\net10.0\refint\Procurement.Application.dll
+C:\NEW LIFE\MY projects\p\Procurement.Application\obj\Debug\net10.0\Procurement.Application.pdb
+C:\NEW LIFE\MY projects\p\Procurement.Application\obj\Debug\net10.0\ref\Procurement.Application.dll
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\bin\Debug\net10.0\Procurement.Application.deps.json
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\bin\Debug\net10.0\Procurement.Application.dll
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\bin\Debug\net10.0\Procurement.Application.pdb
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\bin\Debug\net10.0\Procurement.Domain.dll
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\bin\Debug\net10.0\Procurement.Domain.pdb
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\obj\Debug\net10.0\Procurement.Application.csproj.AssemblyReference.cache
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\obj\Debug\net10.0\Procurement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\obj\Debug\net10.0\Procurement.Application.AssemblyInfoInputs.cache
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\obj\Debug\net10.0\Procurement.Application.AssemblyInfo.cs
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\obj\Debug\net10.0\Procurement.Application.csproj.CoreCompileInputs.cache
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\obj\Debug\net10.0\Procurem.2B6BC217.Up2Date
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\obj\Debug\net10.0\Procurement.Application.dll
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\obj\Debug\net10.0\refint\Procurement.Application.dll
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\obj\Debug\net10.0\Procurement.Application.pdb
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\obj\Debug\net10.0\ref\Procurement.Application.dll

@@ -1,0 +1,24 @@
+C:\NEW LIFE\MY projects\p\Procurement.Domain\bin\Debug\net10.0\Procurement.Domain.deps.json
+C:\NEW LIFE\MY projects\p\Procurement.Domain\bin\Debug\net10.0\Procurement.Domain.dll
+C:\NEW LIFE\MY projects\p\Procurement.Domain\bin\Debug\net10.0\Procurement.Domain.pdb
+C:\NEW LIFE\MY projects\p\Procurement.Domain\obj\Debug\net10.0\Procurement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\NEW LIFE\MY projects\p\Procurement.Domain\obj\Debug\net10.0\Procurement.Domain.AssemblyInfoInputs.cache
+C:\NEW LIFE\MY projects\p\Procurement.Domain\obj\Debug\net10.0\Procurement.Domain.AssemblyInfo.cs
+C:\NEW LIFE\MY projects\p\Procurement.Domain\obj\Debug\net10.0\Procurement.Domain.csproj.CoreCompileInputs.cache
+C:\NEW LIFE\MY projects\p\Procurement.Domain\obj\Debug\net10.0\Procurement.Domain.dll
+C:\NEW LIFE\MY projects\p\Procurement.Domain\obj\Debug\net10.0\refint\Procurement.Domain.dll
+C:\NEW LIFE\MY projects\p\Procurement.Domain\obj\Debug\net10.0\Procurement.Domain.pdb
+C:\NEW LIFE\MY projects\p\Procurement.Domain\obj\Debug\net10.0\ref\Procurement.Domain.dll
+C:\NEW LIFE\MY projects\p\Procurement.Domain\obj\Debug\net10.0\Procurem.32290839.Up2Date
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Domain\bin\Debug\net10.0\Procurement.Domain.deps.json
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Domain\bin\Debug\net10.0\Procurement.Domain.dll
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Domain\bin\Debug\net10.0\Procurement.Domain.pdb
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Domain\obj\Debug\net10.0\Procurement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Domain\obj\Debug\net10.0\Procurement.Domain.AssemblyInfoInputs.cache
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Domain\obj\Debug\net10.0\Procurement.Domain.AssemblyInfo.cs
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Domain\obj\Debug\net10.0\Procurement.Domain.csproj.CoreCompileInputs.cache
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Domain\obj\Debug\net10.0\Procurement.Domain.dll
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Domain\obj\Debug\net10.0\refint\Procurement.Domain.dll
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Domain\obj\Debug\net10.0\Procurement.Domain.pdb
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Domain\obj\Debug\net10.0\ref\Procurement.Domain.dll
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Domain\obj\Debug\net10.0\Procurem.32290839.Up2Date

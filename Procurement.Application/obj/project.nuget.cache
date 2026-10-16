@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qvWuzySKafg=",
+  "success": true,
+  "projectFilePath": "C:\\NEW LIFE\\MY projects\\Procurement & Inventory Management API\\Procurement.Application\\Procurement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salma_Hani\\.nuget\\packages\\fluentvalidation\\12.2.0\\fluentvalidation.12.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
