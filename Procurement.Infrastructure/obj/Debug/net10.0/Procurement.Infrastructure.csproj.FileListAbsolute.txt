@@ -32,3 +32,6 @@ C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Infra
 C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Infrastructure\obj\Debug\net10.0\refint\Procurement.Infrastructure.dll
 C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Infrastructure\obj\Debug\net10.0\Procurement.Infrastructure.pdb
 C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Infrastructure\obj\Debug\net10.0\ref\Procurement.Infrastructure.dll
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Infrastructure\obj\Debug\net10.0\Procurement.Infrastructure.sourcelink.json
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Infrastructure\bin\Debug\net10.0\Procurement.Infrastructure.runtimeconfig.json
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Infrastructure\obj\Debug\net10.0\Procurement.Infrastructure.genruntimeconfig.cache

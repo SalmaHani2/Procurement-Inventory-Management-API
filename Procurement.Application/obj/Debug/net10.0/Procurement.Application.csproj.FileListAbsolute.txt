@@ -28,3 +28,4 @@ C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Appli
 C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\obj\Debug\net10.0\refint\Procurement.Application.dll
 C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\obj\Debug\net10.0\Procurement.Application.pdb
 C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\obj\Debug\net10.0\ref\Procurement.Application.dll
+C:\NEW LIFE\MY projects\Procurement & Inventory Management API\Procurement.Application\obj\Debug\net10.0\Procurement.Application.sourcelink.json

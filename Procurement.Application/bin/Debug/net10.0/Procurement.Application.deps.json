@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v10.0": {
       "Procurement.Application/1.0.0": {
         "dependencies": {
+          "FluentValidation": "12.2.0",
           "Procurement.Domain": "1.0.0"
         },
         "runtime": {
           "Procurement.Application.dll": {}
+        }
+      },
+      "FluentValidation/12.2.0": {
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.2.0.0"
+          }
         }
       },
       "Procurement.Domain/1.0.0": {
@@ -29,6 +38,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/12.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DR3lFbdnKucaaj1/8zMNOACMz/64igzox1yVZSFVsLxYB5mxAB+wFP1WZ8fjwrZnbU1KA1DoMzHKYKxUfuZ4wQ==",
+      "path": "fluentvalidation/12.2.0",
+      "hashPath": "fluentvalidation.12.2.0.nupkg.sha512"
     },
     "Procurement.Domain/1.0.0": {
       "type": "project",
